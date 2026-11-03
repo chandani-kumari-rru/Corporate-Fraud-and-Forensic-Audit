@@ -15,23 +15,26 @@
 |---|---|---|
 |Stock Market Manipulation & Securities Fraud| Scam 1992: The Harshad Mehta Story | Based on stock market manipulation, securities fraud, and banking system exploitation. |
 || Baazaar | Explores insider trading, stock market manipulation, and unethical investment practices. |
-|| Gafla | Depicts stock market scams, fraudulent trading, and financial manipulation. |
+|| Gafla (Based on Ketan Parekh Scam 2001) | Depicts stock market scams, fraudulent trading, and financial manipulation. |
 || The Big Bull | Inspired by stock market manipulation and financial irregularities. |
-|Banking Frauds, Money Laundering & Financial Manipulation| Lucky Baskhar | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
+|Banking Frauds, Money Laundering & Financial Manipulation| Lucky Bashkar, [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r)(Nirav Modi Scam) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
 || Kuberaa | Explores illicit wealth, corruption, exploitation, and the movement of illegal money. |
 || Guru | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
+||Scam 2010: The Subrata Roy Saga|LLM Scam, Illustrates fraudulent financial practices and manipulation of investment systems.|
 |Cyber Financial Crimes, Phishing & Digital Fraud| Jamtara – Sabka Number Ayega | Depicts organized phishing operations, identity deception, and online banking fraud. |
 |Counterfeiting, Forgery & Document Fraud| Farzi | Explores counterfeit currency production, distribution, and financial criminal networks. |
-| Scam 2003: The Telgi Story | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
+|| Scam 2003: The Telgi Story | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
 |Real Estate Fraud & Property Scams| Khosla Ka Ghosla! | Highlights fraudulent property transactions, land grabbing, and real estate exploitation. |
 |Corporate Fraud, Tax Evasion & White-Collar Crime| Bad Boy Billionaires: India | Documentary series examining corporate misconduct, financial fraud, and business scandals. |
 || Raid | Depicts income tax investigation, undisclosed wealth, and tax evasion. |
 || Guru | Explores business expansion, corporate practices, and controversies surrounding commercial success. |
-|Chit Fund Scams, Ponzi Schemes & Investment Fraud| Scam 1992: The Harshad Mehta Story | Illustrates fraudulent financial practices and manipulation of investment systems. |
 |Impersonation, Fake Government Raids & Extortion| Special 26 | Depicts impersonation of government officials and fraudulent raids to extort money. |
 |Sports Betting, Match-Fixing & Organized Financial Crime| Inside Edge | Explores illegal betting, match-fixing, corruption, and financial interests in professional cricket. |
 |Education Scams & Institutional Corruption| Shiksha Mandal | Depicts education scams, examination fraud, admission rackets, and institutional corruption. |
 
+- Others
+  - Vijay Maliya Scam Story => Kingfisher Vine & Air 
+  - Satyam Computer Scam Story => asset manipulation for buying land
 
 # Forensic Audit
 - it is mix of accounting + law.
