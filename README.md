@@ -18,9 +18,10 @@
 || Gafla (Based on Ketan Parekh Scam 2001) | Depicts stock market scams, fraudulent trading, and financial manipulation. |
 || The Big Bull | Inspired by stock market manipulation and financial irregularities. |
 |Banking Frauds, Money Laundering & Financial Manipulation| Lucky Bashkar, [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r)(Nirav Modi Scam) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
-|| Kuberaa | Explores illicit wealth, corruption, exploitation, and the movement of illegal money. |
 || Guru | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
 ||Scam 2010: The Subrata Roy Saga|LLM Scam, Illustrates fraudulent financial practices and manipulation of investment systems.|
+||Hisaab Barabar|bank quietly skims small micro-amounts from millions of customers account, accumulating a massive illicit fortune under the radar.|
+|| Kuberaa | Explores illicit wealth, corruption, exploitation, and the movement of illegal money. |
 |Cyber Financial Crimes, Phishing & Digital Fraud| Jamtara – Sabka Number Ayega | Depicts organized phishing operations, identity deception, and online banking fraud. |
 |Counterfeiting, Forgery & Document Fraud| Farzi | Explores counterfeit currency production, distribution, and financial criminal networks. |
 || Scam 2003: The Telgi Story | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
