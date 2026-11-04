@@ -14,8 +14,7 @@
 |Type|Movies/Web-Series|About|
 |---|---|---|
 |Stock Market Manipulation & Securities Fraud| [Scam 1992: The Harshad Mehta Story](https://youtu.be/ISORfez27og?si=YNFx3tIu1NvYDG82) | Based on stock market manipulation, securities fraud, and banking system exploitation. |
-|| [Baazaar](https://youtu.be/Pb7iJnIWzNk?si=WUz33n_NreNrv10v)[[YT](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P)] | Explores insider trading, stock market manipulation, and unethical investment practices. |
-|| [Gafla](https://youtu.be/4ZJmLwBztfs?si=4xMDpTnOLPKu5yfT) (`Ketan Parekh Scam 2001`) | Depicts stock market scams, fraudulent trading, and financial manipulation. |
+|| [Baazaar](https://youtu.be/Pb7iJnIWzNk?si=WUz33n_NreNrv10v)[[YT](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P)], [Gafla](https://youtu.be/1EPaIyE9rUw?si=PevvzC69z-xHbhvF)[[YT](https://youtu.be/4ZJmLwBztfs?si=4xMDpTnOLPKu5yfT)] | Explores insider trading, stock market manipulation, and unethical investment practices. |
 || [The Big Bull](https://www.dailymotion.com/playlist/x7pofz) | Inspired by stock market manipulation and financial irregularities. |
 |Banking Frauds, Money Laundering & Financial Manipulation| [Lucky Bashkar](https://youtu.be/Ut9K2P18WBk?si=u-qlO2V7WuhC4Nni), [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r)(`Nirav Modi Scam`) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
 || [Guru](https://youtu.be/HheWa38QGbM?si=kt0RnV5KRuXzwJUy) | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
