@@ -9,13 +9,25 @@
   - `Insider Trading`: Trading public company stock using non-public, confidential information.
 - Regulatory Authorities in India
   - Monitored under the `Companies Act 2013 (Section 447)` (which carries severe penalties including imprisonment up to 10 years), the SEBI Act 1992 for market and insider trading offenses, and investigated by specialized bodies like the `SFIO` and `NCLT` (National Company Law Tribunal).
-- 🎬 Financial Crimes: Movies, Web Series & Documentaries [imdb](https://www.imdb.com/list/ls597889363/)
+- top biggest scammer
+
+|Scammer|Scam-Budget|Business Model|What-Do (Loophole)|Movies|
+|---|---|---|---|---|
+|Ketan Parekh 2001|40,000 crore|CA (Stock Market Scam)|illegal bank funding, circular trading, k10-stocks inflation||
+|Subrata Roy 2011|23,000 crore|sahara scam|chit-fund money scam like `Phir hera Pheri`|Scam 2010, Phir Hera Pheri|
+|Abdul Karim Telgi 2003|16,000 crore||Fake Stamp Paper scam|Scam 2003|
+|Vijay Mallya 2011|9,000 crore|Kingfisher Airlines|bank loan defaulter|Vijay Mallya|
+|Ramalinga Raju 2009|14,000 crore|Satyam Computer|false cash-flow(by fake invoices), `balance sheet` showing massive cash reserves, `Ghost Employees`, planned to replace the imaginary cash on books with real land assets ||
+|Nirav Modi(`uncle` Mehul Choksi) 2011-17|14,000 crore|daimond jewelery|issuing fake LoUs by PNB|Johri|
+|Harshad Mehta 1992|5,000 crore||uses loopholes in the banking system to siphon off 1000 crore in public funds, signle handedly fueling an unprecedented bull run in BSE before the entire system collapsed.|Scam 1992, Big Bull, Dalal Street|
+
+- 🎬 Financial Crimes: Movies, Web Series & Documentaries [imdb rating](https://www.imdb.com/list/ls597889363/)
 
 |Type|Movies/Web-Series|About|
 |---|---|---|
 |Stock Market Manipulation & Securities Fraud| [Scam 1992: The Harshad Mehta Story](https://youtu.be/ISORfez27og?si=YNFx3tIu1NvYDG82) | Based on stock market manipulation, securities fraud, and banking system exploitation. |
 || [Baazaar](https://youtu.be/Pb7iJnIWzNk?si=WUz33n_NreNrv10v)[[YT](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P)], [Gafla](https://youtu.be/1EPaIyE9rUw?si=PevvzC69z-xHbhvF)[[YT](https://youtu.be/4ZJmLwBztfs?si=4xMDpTnOLPKu5yfT)], [The Big Bull](https://youtu.be/Bw6I-KgCSP4?si=TZe0zX-WBGgVe2uw) | Explores insider trading, stock market manipulation, and unethical investment practices. |
-|Banking Frauds, Money Laundering & Financial Manipulation| [Lucky Bashkar](https://youtu.be/Ut9K2P18WBk?si=u-qlO2V7WuhC4Nni), [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r)(`Nirav Modi Scam`) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
+|Banking Frauds, Money Laundering & Financial Manipulation| [Lucky Bashkar](https://youtu.be/Ut9K2P18WBk?si=u-qlO2V7WuhC4Nni), [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
 || [Guru](https://youtu.be/d8pzg5oPhCw?si=dWC1vWtQHNUcq8V8)[[YT](https://youtu.be/HheWa38QGbM?si=kt0RnV5KRuXzwJUy)] | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
 ||[Scam 2010: The Subrata Roy Saga](https://youtu.be/_akeSPArGFQ?si=-YUiyyDK30dzKT3z)|LLM Scandal, Illustrates fraudulent financial practices and manipulation of investment systems.|
 ||Hisaab Barabar|bank quietly skims small micro-amounts from millions of customers account, accumulating a massive illicit fortune under the radar.|
@@ -28,10 +40,6 @@
 |Real Estate Fraud & Property Scams| [Khosla Ka Ghosla](https://youtu.be/ig1O2F8fv3M?si=RaLoZTsR6uAoFJT6) | Highlights fraudulent property transactions, land grabbing, and real estate exploitation. |
 |Sports Betting, Match-Fixing & Organized Financial Crime| [Inside Edge](https://youtu.be/T1y3aIfZXJ8?si=VqO3yIw1yruQR8FB) | Explores illegal betting, match-fixing, corruption, and financial interests in professional cricket. |
 |Education Scams & Institutional Corruption| [Shiksha Mandal](https://youtu.be/5VtPTV7T8gA?si=btIR9Yfb3QuMDldR) | Depicts education scams, examination fraud, admission rackets, and institutional corruption. |
-
-- Others
-  - Vijay Maliya Scam Story => Kingfisher Vine & Air 
-  - Satyam Computer Scam Story => asset manipulation for buying land
 
 # Forensic Audit
 - it is mix of accounting + law.
