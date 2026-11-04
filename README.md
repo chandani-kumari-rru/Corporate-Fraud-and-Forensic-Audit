@@ -16,7 +16,7 @@
 |Ketan Parekh 2001|40,000 crore|CA (Stock Market Scam)|illegal bank funding, circular trading, k10-stocks inflation||
 |Subrata Roy 2011|23,000 crore|sahara scam|chit-fund money scam like `Phir hera Pheri`|Scam 2010, Phir Hera Pheri|
 |Abdul Karim Telgi 2003|16,000 crore||Fake Stamp Paper scam|Scam 2003|
-|Vijay Mallya 2011|9,000 crore|Kingfisher Airlines|bank loan defaulter|Vijay Mallya|
+|Vijay Mallya 2011|9,000 crore|Kingfisher Airlines|bank loan defaulter|King of Good Times|
 |Ramalinga Raju 2009|14,000 crore|Satyam Computer|false cash-flow(by fake invoices), `balance sheet` showing massive cash reserves, `Ghost Employees`, planned to replace the imaginary cash on books with real land assets ||
 |Nirav Modi(`uncle` Mehul Choksi) 2011-17|14,000 crore|daimond jewelery|issuing fake LoUs by PNB|Johri|
 |Harshad Mehta 1992|5,000 crore||uses loopholes in the banking system to siphon off 1000 crore in public funds, signle handedly fueling an unprecedented bull run in BSE before the entire system collapsed.|Scam 1992, Big Bull, Dalal Street|
