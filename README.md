@@ -19,7 +19,7 @@
 || [Guru](https://youtu.be/d8pzg5oPhCw?si=dWC1vWtQHNUcq8V8)[[YT](https://youtu.be/HheWa38QGbM?si=kt0RnV5KRuXzwJUy)] | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
 ||[Scam 2010: The Subrata Roy Saga](https://youtu.be/_akeSPArGFQ?si=-YUiyyDK30dzKT3z)|LLM Scandal, Illustrates fraudulent financial practices and manipulation of investment systems.|
 ||Hisaab Barabar|bank quietly skims small micro-amounts from millions of customers account, accumulating a massive illicit fortune under the radar.|
-|| [Kuberaa](https://youtu.be/y6kLTxZFIEY?si=dujmJyR18B0yNHgy) | Explores illicit wealth, corruption, exploitation, and the movement of illegal money. |
+|| [Kuberaa](https://youtu.be/GiVdj7fCuQs?si=ybtAmy7FgRgItUEv)[[YT](https://youtu.be/y6kLTxZFIEY?si=dujmJyR18B0yNHgy)] | Explores illicit wealth, corruption, exploitation, and the movement of illegal money through shell company. |
 |Cyber Financial Crimes, Phishing & Digital Fraud| [Jamtara – Sabka Number Ayega](https://youtu.be/MLWb4z12-U4?si=Z5MeXZn6rrgDhneh) | Depicts organized phishing operations, identity deception, and online banking fraud. |
 |Counterfeiting, Forgery & Document Fraud| [Farzi](https://youtu.be/rcQ_xZdzPBc?si=zOcqB47M-N7BmSJn) | Explores counterfeit currency production, distribution, and financial criminal networks. |
 || [Scam 2003: The Telgi Story](https://youtu.be/DZlQgpKEVJs?si=2duQQgZCafkocoAH)[[YT](https://youtu.be/_x8cUGW8ovU?si=bAsDTNhH7OMTfsFd)] | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
