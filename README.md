@@ -14,7 +14,7 @@
 |Type|Movies/Web-Series|About|
 |---|---|---|
 |Stock Market Manipulation & Securities Fraud| [Scam 1992: The Harshad Mehta Story](https://youtu.be/ISORfez27og?si=YNFx3tIu1NvYDG82) | Based on stock market manipulation, securities fraud, and banking system exploitation. |
-|| [Baazaar](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P) | Explores insider trading, stock market manipulation, and unethical investment practices. |
+|| [Baazaar](https://youtu.be/Pb7iJnIWzNk?si=WUz33n_NreNrv10v)[[YT](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P)] | Explores insider trading, stock market manipulation, and unethical investment practices. |
 || [Gafla](https://youtu.be/4ZJmLwBztfs?si=4xMDpTnOLPKu5yfT) (`Ketan Parekh Scam 2001`) | Depicts stock market scams, fraudulent trading, and financial manipulation. |
 || [The Big Bull](https://www.dailymotion.com/playlist/x7pofz) | Inspired by stock market manipulation and financial irregularities. |
 |Banking Frauds, Money Laundering & Financial Manipulation| [Lucky Bashkar](https://youtu.be/Ut9K2P18WBk?si=u-qlO2V7WuhC4Nni), [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r)(`Nirav Modi Scam`) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
@@ -24,7 +24,7 @@
 || [Kuberaa](https://youtu.be/y6kLTxZFIEY?si=dujmJyR18B0yNHgy) | Explores illicit wealth, corruption, exploitation, and the movement of illegal money. |
 |Cyber Financial Crimes, Phishing & Digital Fraud| [Jamtara – Sabka Number Ayega](https://youtu.be/MLWb4z12-U4?si=Z5MeXZn6rrgDhneh) | Depicts organized phishing operations, identity deception, and online banking fraud. |
 |Counterfeiting, Forgery & Document Fraud| [Farzi](https://youtu.be/rcQ_xZdzPBc?si=zOcqB47M-N7BmSJn) | Explores counterfeit currency production, distribution, and financial criminal networks. |
-|| [Scam 2003: The Telgi Story](https://youtu.be/DZlQgpKEVJs?si=2duQQgZCafkocoAH),[YT](https://youtu.be/_x8cUGW8ovU?si=bAsDTNhH7OMTfsFd) | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
+|| [Scam 2003: The Telgi Story](https://youtu.be/DZlQgpKEVJs?si=2duQQgZCafkocoAH)[[YT](https://youtu.be/_x8cUGW8ovU?si=bAsDTNhH7OMTfsFd)] | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
 |Corporate Fraud, Tax Evasion & White-Collar Crime| [Bad Boy Billionaires: India](https://youtu.be/aCEOmLPdp-I?si=fHr2iKctXITFrvsw) | Documentary series examining corporate misconduct, financial fraud, and business scandals. |
 || Raid, Special 26 | Depicts income tax investigation, undisclosed wealth, and tax evasion. |
 |Real Estate Fraud & Property Scams| [Khosla Ka Ghosla](https://youtu.be/ig1O2F8fv3M?si=RaLoZTsR6uAoFJT6) | Highlights fraudulent property transactions, land grabbing, and real estate exploitation. |
