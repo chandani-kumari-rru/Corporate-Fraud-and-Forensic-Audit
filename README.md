@@ -14,7 +14,7 @@
 |Scammer|Scam-Budget|Business Model|What-Do (Loophole)|Movies|
 |---|---|---|---|---|
 |Ketan Parekh 2001|40,000 crore|CA (Stock Market Scam)|illegal bank funding, circular trading, k10-stocks inflation||
-|Subrata Roy 2011|23,000 crore|sahara scam|chit-fund money scam like `Phir hera Pheri`|Scam 2010, Phir Hera Pheri|
+|Subrata Roy 2011|23,000 crore|sahara scam|chit-fund money scam like `Phir hera Pheri`|Scam 2010: the subrata roy saga|
 |Abdul Karim Telgi 2003|16,000 crore||Fake Stamp Paper scam|Scam 2003|
 |Vijay Mallya 2011|9,000 crore|Kingfisher Airlines|bank loan defaulter|King of Good Times|
 |Ramalinga Raju 2009|14,000 crore|Satyam Computer|false cash-flow(by fake invoices), `balance sheet` showing massive cash reserves, `Ghost Employees`, planned to replace the imaginary cash on books with real land assets ||
