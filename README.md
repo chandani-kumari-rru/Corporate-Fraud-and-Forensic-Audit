@@ -73,7 +73,6 @@
 - ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
 <img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
 
-
 ### Suggested Forensic Audit Internship Report Topics
 > SFIO's work revolves around financial irregularities, shell companies, audit manipulation, and forensic evidence. 
 - Option 1: `A Case Study on Shell Companies and Money Laundering`
@@ -94,8 +93,8 @@
 |---|---|
 |Fraud Triangle: Art of Forensic Accounting & Investigation|[YouTube](https://youtu.be/jW5m2mxy-q0?si=elt9CFhUUZU69Kza)|
 |Forensic Accounting & Investigation Standards|[YouTube](https://youtu.be/bL2aV1v4py8?si=QJzhqXWjSRTY4a0B)|
-
-
+|Step by Step Procedure for Forensic Audit|[Blog](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)|
+|Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits)|
 
 
 
