@@ -41,19 +41,7 @@
 |Sports Betting, Match-Fixing & Organized Financial Crime| [Inside Edge](https://youtu.be/T1y3aIfZXJ8?si=VqO3yIw1yruQR8FB) | Explores illegal betting, match-fixing, corruption, and financial interests in professional cricket. |
 |Education Scams & Institutional Corruption| [Shiksha Mandal](https://youtu.be/5VtPTV7T8gA?si=btIR9Yfb3QuMDldR) | Depicts education scams, examination fraud, admission rackets, and institutional corruption. |
 
-# Forensic Audit
-- it is mix of accounting + law.
-- The goal is to find proof of financial crimes.
-- Result can be used in court of law.
-- In Single line say "A Forensic Audit is a detailed review of an `organiation's financial records` & transactions to find financial irregularities.
-- A forensic audit is fundamentally an examination of financial data. To prove fraud, you must be able to read the trail the money left behind.
-- ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
-<img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
-
-
-
-
-### Essential Knowledge
+### Essential Knowledge for Forensic Audit
 - `Basic Financial Accounting`: You need a deep understanding of standard frameworks (like GAAP or IFRS). You must know how financial statements ([Balance Sheets](https://www.smartsheet.com/sites/default/files/2025-05/IC-Balance-Sheet-Template-12375_Example.png), [Income Statements](https://cdn.vertex42.com/ExcelTemplates/Images/income-statement_screenshot.gif), and [Cash Flow Statements](https://cdn.vertex42.com/ExcelTemplates/Images/cash-flow-statement-template.png)) are built to recognize when they are being manipulated.
 - `Forensic Data Analysis & Ledgers`: You must be able to navigate complex ERP systems (like SAP or Oracle) and dig into raw General Ledgers, Journal Entries, and Trial Balances to spot anomalies.
 
@@ -66,6 +54,13 @@
 - `Internal Control Frameworks`: You need to understand how business processes are designed so you can identify weak points where embezzlement or fraud could bypass oversight.
 - `Auditing Standards`: You must be familiar with standard auditing procedures (like `sampling`, `verification`, and `substantive testing`) before you can apply the heightened skepticism required for a forensic audit.
 
+# Forensic Audit
+- it is mix of accounting + law.
+- The goal is to find proof of financial crimes.
+- Result can be used in court of law.
+- In Single line say "A Forensic Audit is a detailed review of an `organiation's financial records` & transactions to find financial irregularities.
+- A forensic audit is fundamentally an examination of financial data. To prove fraud, you must be able to read the trail the money left behind.
+
 ### Key Reasons Why Regular Forensic Audits Matter
 - `Early Fraud Detection`: Unlike standard financial audits that focus on whether books are presented fairly, a forensic audit looks deep into transaction substances to spot hidden asset misappropriation, payroll fraud, or kickbacks early.
 - `Strengthened Internal Controls`: Regular reviews highlight vulnerabilities, weak approval chains, and gaps in company policy, forcing management to build a stronger internal control system.
@@ -73,6 +68,10 @@
 - `Loss Reduction and Recovery`: Tracing suspicious transaction flows allows companies to quantify economic damages and recover diverted funds quickly.
 - `Protection of Business Goodwill`: Independent and factual forensic reports protect a company's reputation against false rumors, calm investors, and ensure reliable decision-making.
 - `Litigation and Regulatory Readiness`: If legal action or a regulatory investigation becomes necessary, a forensic audit provides legally sound, chain-of-custody-backed evidence that can be presented directly in court.
+
+### Forensic Audit Standards
+- ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
+<img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
 
 # Recommendation
 |Topic|Refer|
