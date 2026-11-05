@@ -47,6 +47,9 @@
 - Result can be used in court of law.
 - In Single line say "A Forensic Audit is a detailed review of an `organiation's financial records` & transactions to find financial irregularities.
 - A forensic audit is fundamentally an examination of financial data. To prove fraud, you must be able to read the trail the money left behind.
+- ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
+<img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
+
 
 
 
@@ -75,7 +78,7 @@
 |Topic|Refer|
 |---|---|
 |Fraud Triangle: Art of Forensic Accounting & Investigation|[YouTube](https://youtu.be/jW5m2mxy-q0?si=elt9CFhUUZU69Kza)|
-
+|Forensic Accounting & Investigation Standards|[YouTube](https://youtu.be/bL2aV1v4py8?si=QJzhqXWjSRTY4a0B)|
 
 
 
