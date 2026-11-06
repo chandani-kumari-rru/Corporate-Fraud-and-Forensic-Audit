@@ -10,6 +10,8 @@
 - Regulatory Authorities in India
   - Monitored under the `Companies Act 2013 (Section 447)` (which carries severe penalties including imprisonment up to 10 years), the SEBI Act 1992 for market and insider trading offenses, and investigated by specialized bodies like the `SFIO` and `NCLT` (National Company Law Tribunal).
 - top biggest scammer
+<img width="1356" height="601" alt="image" src="https://github.com/user-attachments/assets/2df10181-6c61-43e9-a784-bb7f633c0dd9" />
+
 
 |Scammer|Scam-Budget|Business Model|What-Do (Loophole)|Movies|
 |---|---|---|---|---|
