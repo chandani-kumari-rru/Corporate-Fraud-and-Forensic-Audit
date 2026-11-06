@@ -98,5 +98,3 @@
 |Step by Step Procedure for Forensic Audit|[Blog](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)|
 |Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits),[YouTube](https://youtube.com/playlist?list=PLtYj6GJqFuO3FxqLy2hRU2_aGCfFL-u4B&si=QYNPBv3X-b_E4KN3)|
 
-
-
