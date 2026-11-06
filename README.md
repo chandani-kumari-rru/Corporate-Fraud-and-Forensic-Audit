@@ -96,7 +96,7 @@
 |Fraud Triangle: Art of Forensic Accounting & Investigation|[YouTube](https://youtu.be/jW5m2mxy-q0?si=elt9CFhUUZU69Kza)|
 |Forensic Accounting & Investigation Standards|[YouTube](https://youtu.be/bL2aV1v4py8?si=QJzhqXWjSRTY4a0B)|
 |Step by Step Procedure for Forensic Audit|[Blog](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)|
-|Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits)|
+|Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits),[YouTube](https://youtube.com/playlist?list=PLtYj6GJqFuO3FxqLy2hRU2_aGCfFL-u4B&si=QYNPBv3X-b_E4KN3)|
 
 
 
