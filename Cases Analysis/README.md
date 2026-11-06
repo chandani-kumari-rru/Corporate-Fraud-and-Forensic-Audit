@@ -1,4 +1,4 @@
-# Corporate Fraud Details Case Analysis
+# Details Corporate Fraud Case Analysis
 
 |S.No.|Case Studies Analysis|References|
 |---|---|---|
