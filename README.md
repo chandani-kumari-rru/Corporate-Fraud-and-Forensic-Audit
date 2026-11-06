@@ -73,6 +73,17 @@
 - ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
 <img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
 
+### Case Analysis
+|S.No.|Case Studies Analysis|References|
+|---|---|---|
+|01|Satyam Computer Services Ltd|[ppt](https://www.scribd.com/presentation/323842845/Satyam-Fraud-Case-Study)|
+|02|SFIO v/s Rahul Modi||
+|03|SFIO v/s Nittin Johari|
+|04|Union of India v/s Deloitte Haskins & Sells LLP||
+|05|Barium Chemicals Ltd v/s Company Law Board||
+|06|Rohtas Industries Ltd v/s S.D. Agarwal||
+|07|SFIO v/s Aditya Tripathi||
+
 ### Suggested Forensic Audit Internship Report Topics
 > SFIO's work revolves around financial irregularities, shell companies, audit manipulation, and forensic evidence. 
 - Option 1: `A Case Study on Shell Companies and Money Laundering`
