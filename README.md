@@ -54,7 +54,7 @@ Fraud happens by employee
 
 - `Internal Control Frameworks`: You need to understand how business processes are designed so you can identify weak points where embezzlement or fraud could bypass oversight.
 - `Auditing Standards`: You must be familiar with standard auditing procedures (like `sampling`, `verification`, and `substantive testing`) before you can apply the heightened skepticism required for a forensic audit.
-<img width="758" height="426" alt="image" src="https://github.com/user-attachments/assets/f7deabc9-bf53-4047-8bd4-f57af327267f" />
+<p align="center"><img width="558" height="326" alt="image" src="https://github.com/user-attachments/assets/f7deabc9-bf53-4047-8bd4-f57af327267f" /></p>
 
 
 # Forensic Audit
@@ -74,7 +74,7 @@ Fraud happens by employee
 
 ### Forensic Audit Standards
 - ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
-<img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
+<p align="center"><img width="1013" height="513" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" /></p>
 
 
 
