@@ -15,7 +15,7 @@
   - [Corporate Fraud Cases in India](#Corporate-Fraud-Cases-in-India)
   - [Corporate Fraud Cases in USA](#Corporate-Fraud-Cases-in-USA)
   - [Indian Financial Crime Movies](#Indian-Financial-Crime-Movies)
-- [Procedure to Handle Corporate Fraud](#Procedure-to-Handle-Corporate-Fraud)
+- [Procedure to Handle Corporate Fraud Cases](#Procedure-to-Handle-Corporate-Fraud-Cases)
 - [SFIO Case Progress](#SFIO-Case-Progress)
 
 # Corporate Fraud
@@ -141,7 +141,7 @@ Fraud happens by employee
 
 
 
-## [Procedure to Handle Corporate Fraud](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)
+## [Procedure to Handle Corporate Fraud Cases](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)
 - Step 0: Observation & Anonymous Reporting Phase
   - Section 447 of the Companies Act 2013: Defining Fraud
     > penalty: imprisonment (6 months to 10 years) + fine (not be less than the amount involved in the fraud)
