@@ -176,7 +176,7 @@ Fraud happens by employee
 |Step by Step Procedure for Forensic Audit|[Blog](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)|
 |Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits),[YouTube](https://youtube.com/playlist?list=PLtYj6GJqFuO3FxqLy2hRU2_aGCfFL-u4B&si=QYNPBv3X-b_E4KN3)|
 
-## SFIO Corporate Fraud Reported Cases in India
+## SFIO Case Progress
 |S.No.|Case Studies Analysis|References|
 |---|---|---|
 |01|Satyam Computer Services Ltd|[ppt](https://www.scribd.com/presentation/323842845/Satyam-Fraud-Case-Study)|
