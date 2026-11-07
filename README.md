@@ -30,14 +30,14 @@
 - Regulatory Authorities in India
   - Monitored under the `Companies Act 2013 (Section 447)` (which carries severe penalties including imprisonment up to 10 years), the SEBI Act 1992 for market and insider trading offenses, and investigated by specialized bodies like the `SFIO` and `NCLT` (National Company Law Tribunal).
 - top biggest scammer
-<img width="1356" height="601" alt="image" src="https://github.com/user-attachments/assets/2df10181-6c61-43e9-a784-bb7f633c0dd9" />
+<img width="1356" height="401" alt="image" src="https://github.com/user-attachments/assets/2df10181-6c61-43e9-a784-bb7f633c0dd9" />
 
 ### level of fraud
 > inside a company
-  <img width="850" height="832" alt="image" src="https://github.com/user-attachments/assets/f39d8123-42ac-4214-9bd0-43b9780da07a" />
+  <img width="850" height="432" alt="image" src="https://github.com/user-attachments/assets/f39d8123-42ac-4214-9bd0-43b9780da07a" />
 
 Fraud happens by employee
-  <img width="850" height="882" alt="image" src="https://github.com/user-attachments/assets/54d32917-a761-487c-80ee-1023da2416ca" />
+  <img width="850" height="482" alt="image" src="https://github.com/user-attachments/assets/54d32917-a761-487c-80ee-1023da2416ca" />
 
 
 
