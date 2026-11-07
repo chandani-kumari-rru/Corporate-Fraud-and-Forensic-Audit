@@ -49,7 +49,7 @@ Fraud happens by employee
 
 
 ### Essential Knowledge for Forensic Audit
-- `Basic Financial Accounting`: You need a deep understanding of standard frameworks (like GAAP or IFRS). You must know how financial statements ([Balance Sheets](https://www.smartsheet.com/sites/default/files/2025-05/IC-Balance-Sheet-Template-12375_Example.png), [Income Statements](https://cdn.vertex42.com/ExcelTemplates/Images/income-statement_screenshot.gif), and [Cash Flow Statements](https://cdn.vertex42.com/ExcelTemplates/Images/cash-flow-statement-template.png)) are built to recognize when they are being manipulated.
+- `Basic Financial Accounting`: You need a deep understanding of standard frameworks (like GAAP or IFRS). You must know how financial statements ([Balance Sheets](https://www.smartsheet.com/sites/default/files/2025-05/IC-Balance-Sheet-Template-12375_Example.png), [Income Statements(i.e profit & loss](https://cdn.vertex42.com/ExcelTemplates/Images/income-statement_screenshot.gif), [Cash Flow Statements](https://cdn.vertex42.com/ExcelTemplates/Images/cash-flow-statement-template.png) & [Statement of changes in equity](https://accountdemy.com/wp-content/uploads/2023/03/Statement-of-Changes-In-Shareholders-Equity-Accountdemy-1.png?x27760)) are built to recognize when they are being manipulated.
 - `Forensic Data Analysis & Ledgers`: You must be able to navigate complex ERP systems (like SAP or Oracle) and dig into raw General Ledgers, Journal Entries, and Trial Balances to spot anomalies.
 
 |Tools|Description|
