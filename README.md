@@ -74,7 +74,7 @@ Fraud happens by employee
 
 ### Forensic Audit Standards
 - ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
-<p align="center"><img width="1013" height="513" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" /></p>
+<p align="center"><img width="813" height="513" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" /></p>
 
 
 
