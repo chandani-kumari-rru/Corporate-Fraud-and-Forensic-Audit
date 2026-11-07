@@ -1,3 +1,23 @@
+# Corporate Fraud & Forensic Audit
+- on the basis of impact on economy & financial transaction
+  - Bank Fruad
+  - Corporate Fruad
+  - Insurance Fraud
+  - Cyber Fruad
+  - Securities Fraud
+
+## 📑 Table of Contents
+
+- [Corporate Fraud](#corporate-fraud)
+  - [Level of Fraud](#level-of-fraud)
+  - [Forensic Audit](#forensic-audit)
+  - [Corporate Fraud Cases in India](#Corporate-Fraud-Cases-in-India)
+  - [Corporate Fraud Cases in USA](#Corporate-Fraud-Cases-in-USA)
+  - [Indian Financial Crime Movies](#Indian-Financial-Crime-Movies)
+- [Forensic Audit](#forensic-audit)
+- [Corporate Fraud in India](#)
+- [Corporate Fraud in USA](#)
+
 # Corporate Fraud
 - unethical actions committed by an organization or its employees for his personal financial gain.
 - it harms consumers, investors, employees & creditors, and is often driven by pressures like market competition, performance bonuses and executive greed.
@@ -12,36 +32,21 @@
 - top biggest scammer
 <img width="1356" height="601" alt="image" src="https://github.com/user-attachments/assets/2df10181-6c61-43e9-a784-bb7f633c0dd9" />
 
+### level of fraud
+> inside a company
+  <img width="850" height="832" alt="image" src="https://github.com/user-attachments/assets/f39d8123-42ac-4214-9bd0-43b9780da07a" />
 
-|Scammer|Scam-Budget|Business Model|What-Do (Loophole)|Movies|
-|---|---|---|---|---|
-|Ketan Parekh 2001|40,000 crore|CA (Stock Market Scam)|illegal bank funding, circular trading, k10-stocks inflation||
-|Subrata Roy 2011|23,000 crore|sahara scam|chit-fund money scam like `Phir hera Pheri`|Scam 2010: the subrata roy saga|
-|Abdul Karim Telgi 2003|16,000 crore||Fake Stamp Paper scam|Scam 2003|
-|Vijay Mallya 2011|9,000 crore|Kingfisher Airlines|bank loan defaulter|King of Good Times|
-|Ramalinga Raju 2009|14,000 crore|Satyam Computer|false cash-flow(by fake invoices), `balance sheet` showing massive cash reserves, `Ghost Employees`, planned to replace the imaginary cash on books with real land assets ||
-|Nirav Modi(`uncle` Mehul Choksi) 2011-17|14,000 crore|daimond jewelery|issuing fake LoUs by PNB|Johri|
-|Harshad Mehta 1992|5,000 crore||uses loopholes in the banking system to siphon off 1000 crore in public funds, signle handedly fueling an unprecedented bull run in BSE before the entire system collapsed.|Scam 1992, Big Bull, Dalal Street|
+Fraud happens by employee
+  <img width="850" height="882" alt="image" src="https://github.com/user-attachments/assets/54d32917-a761-487c-80ee-1023da2416ca" />
 
-- 🎬 Financial Crimes: Movies, Web Series & Documentaries [imdb rating](https://www.imdb.com/list/ls597889363/)
 
-|Type|Movies/Web-Series|About|
-|---|---|---|
-|Stock Market Manipulation & Securities Fraud| [Scam 1992: The Harshad Mehta Story](https://youtu.be/ISORfez27og?si=YNFx3tIu1NvYDG82) | Based on stock market manipulation, securities fraud, and banking system exploitation. |
-|| [Baazaar](https://youtu.be/Pb7iJnIWzNk?si=WUz33n_NreNrv10v)[[YT](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P)], [Gafla](https://youtu.be/1EPaIyE9rUw?si=PevvzC69z-xHbhvF)[[YT](https://youtu.be/4ZJmLwBztfs?si=4xMDpTnOLPKu5yfT)], [The Big Bull](https://youtu.be/Bw6I-KgCSP4?si=TZe0zX-WBGgVe2uw) | Explores insider trading, stock market manipulation, and unethical investment practices. |
-|Banking Frauds, Money Laundering & Financial Manipulation| [Lucky Bashkar](https://youtu.be/Ut9K2P18WBk?si=u-qlO2V7WuhC4Nni), [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
-|| [Guru](https://youtu.be/d8pzg5oPhCw?si=dWC1vWtQHNUcq8V8)[[YT](https://youtu.be/HheWa38QGbM?si=kt0RnV5KRuXzwJUy)] | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
-||[Scam 2010: The Subrata Roy Saga](https://youtu.be/_akeSPArGFQ?si=-YUiyyDK30dzKT3z)|LLM Scandal, Illustrates fraudulent financial practices and manipulation of investment systems.|
-||Hisaab Barabar|bank quietly skims small micro-amounts from millions of customers account, accumulating a massive illicit fortune under the radar.|
-|| [Kuberaa](https://youtu.be/GiVdj7fCuQs?si=ybtAmy7FgRgItUEv)[[YT](https://youtu.be/y6kLTxZFIEY?si=dujmJyR18B0yNHgy)] | Explores illicit wealth, corruption, exploitation, and the movement of illegal money through shell company. |
-|Cyber Financial Crimes, Phishing & Digital Fraud| [Jamtara – Sabka Number Ayega](https://youtu.be/AS4Z-wXmuP0?si=i8RjGA_7sDxupxm0) | Depicts organized phishing operations, identity deception, and online banking fraud. |
-|Counterfeiting, Forgery & Document Fraud| [Farzi](https://youtu.be/rcQ_xZdzPBc?si=zOcqB47M-N7BmSJn) | Explores counterfeit currency production, distribution, and financial criminal networks. |
-|| [Scam 2003: The Telgi Story](https://youtu.be/DZlQgpKEVJs?si=2duQQgZCafkocoAH)[[YT](https://youtu.be/_x8cUGW8ovU?si=bAsDTNhH7OMTfsFd)] | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
-|Corporate Fraud, Tax Evasion & White-Collar Crime| [Bad Boy Billionaires: India](https://youtu.be/aCEOmLPdp-I?si=fHr2iKctXITFrvsw) | Documentary series examining corporate misconduct, financial fraud, and business scandals. |
-|| [Raid](https://youtu.be/3h4thS-Hcrk?si=CfOldh2tc0WJ5ch6), [Special 26](https://youtu.be/MqWAtOvHa4k?si=TxpSrgWDn-rNff9Z) | Depicts income tax investigation, undisclosed wealth, and tax evasion. |
-|Real Estate Fraud & Property Scams| [Khosla Ka Ghosla](https://youtu.be/ig1O2F8fv3M?si=RaLoZTsR6uAoFJT6) | Highlights fraudulent property transactions, land grabbing, and real estate exploitation. |
-|Sports Betting, Match-Fixing & Organized Financial Crime| [Inside Edge](https://youtu.be/T1y3aIfZXJ8?si=VqO3yIw1yruQR8FB) | Explores illegal betting, match-fixing, corruption, and financial interests in professional cricket. |
-|Education Scams & Institutional Corruption| [Shiksha Mandal](https://youtu.be/5VtPTV7T8gA?si=btIR9Yfb3QuMDldR) | Depicts education scams, examination fraud, admission rackets, and institutional corruption. |
+
+
+
+
+
+
+
 
 ### Essential Knowledge for Forensic Audit
 - `Basic Financial Accounting`: You need a deep understanding of standard frameworks (like GAAP or IFRS). You must know how financial statements ([Balance Sheets](https://www.smartsheet.com/sites/default/files/2025-05/IC-Balance-Sheet-Template-12375_Example.png), [Income Statements](https://cdn.vertex42.com/ExcelTemplates/Images/income-statement_screenshot.gif), and [Cash Flow Statements](https://cdn.vertex42.com/ExcelTemplates/Images/cash-flow-statement-template.png)) are built to recognize when they are being manipulated.
@@ -75,6 +80,84 @@
 - ICAI is a mandatory standards for forensic audit (effective from 1st July 2023), designed to ensure consistency, credibility, and legal defensibility in forensic investigations (FAIS).
 <img width="1613" height="913" alt="image" src="https://github.com/user-attachments/assets/eb3cfb95-eb42-4e70-9e7d-f5660bdb77a3" />
 
+
+
+
+
+
+
+
+### Corporate Fraud Cases in India
+|S.No.|Fraud|Scam-Budget|Charges|References| 
+|---|---|---|---|---| 
+|01|Harshad Mehta 1992|5,000 crore|uses loopholes in the banking system to siphon off 1000 crore in public funds, signle handedly fueling an unprecedented bull run in BSE before the entire system collapsed.|Scam 1992, Big Bull, Dalal Street|
+|02|Ketan Parekh(C.A.) 2001|40,000 crore|illegal bank funding, circular trading, k10-stocks inflation||
+|03|Abdul Karim Telgi 2003|16,000 crore|Fake Stamp Paper scam|Scam 2003| 
+|04|Satyam Computer(Ramalinga Raju) 2009|14,000 crore|false cash-flow(by fake invoices), `balance sheet` showing massive cash reserves, `Ghost Employees`, planned to replace the imaginary cash on books with real land assets ||
+|05|Kingfisher Airlines (Vijay Mallya) 2011|9,000 crore|bank loan defaulter|King of Good Times| 
+|06|Diamond Business: Nirav Modi(`uncle` Mehul Choksi) 2011-17|14,000 crore|issuing fake LoUs by PNB|Johri|
+|07|Sahara(Subrata Roy) 2011|23,000 crore|Ponzi Sceme|Scam 2010: the subrata roy saga| 
+|08|Rotomac Pen 2015-18|3700 crore||||
+|09|Winsome Diamond(Jatin Mehta) 2016|6800 crore||||
+|10|Kanishk gold 2017|824 crore||||
+|11|Andhra bank 2017|32 crore||||
+|12|R.P. info Systems Bank 2018|515 crore||||
+|13|IDBI Bank 2018|1.25 crore||||
+|14|DHFL 2019| 34,000 crore||||
+|15|Videocon 2019|4000 crore||||
+|16|ABG Shipyard 2022|22842 crore||||
+
+### Corporate Fraud Cases in USA
+|S.No.|Case Studies Analysis|Budget Amount|Charges|References|
+|---|---|---|---|---|
+|01|Waste Management 1998|$1.78 billion|||
+|02|Enron Scandal 2001|$74 billion|||
+|03|WorldCom 2002|$11 billion|||
+|04|Tyco International 2002|$150 million|||
+|05|HealthSouth 2003|$1.4 billion|||
+|06|Freddie Mac 2003|$125 million|||
+|07|American International Group|$3.9 billion|||
+|08|Lehman Brothers 2008|$50 billion||[The Big Short 2015](https://www.youtube.com/watch?v=vgqG3ITMv1Q)|
+|09|Bernie Madoff 2008|$64.8 billion|||
+|10|Theranos 2015-18|$700 million|||
+|11|FTX 2022|...|||
+
+
+### Indian Financial Crime Movies
+
+|Type|Movies/Web-Series|About|
+|---|---|---|
+|Stock Market Manipulation & Securities Fraud| [Scam 1992: The Harshad Mehta Story](https://youtu.be/ISORfez27og?si=YNFx3tIu1NvYDG82) | Based on stock market manipulation, securities fraud, and banking system exploitation. |
+|| [Baazaar](https://youtu.be/Pb7iJnIWzNk?si=WUz33n_NreNrv10v)[[YT](https://youtu.be/S7mrtLuBSoU?si=oVQq_To4OQmsJk5P)], [Gafla](https://youtu.be/1EPaIyE9rUw?si=PevvzC69z-xHbhvF)[[YT](https://youtu.be/4ZJmLwBztfs?si=4xMDpTnOLPKu5yfT)], [The Big Bull](https://youtu.be/Bw6I-KgCSP4?si=TZe0zX-WBGgVe2uw) | Explores insider trading, stock market manipulation, and unethical investment practices. |
+|Banking Frauds, Money Laundering & Financial Manipulation| [Lucky Bashkar](https://youtu.be/Ut9K2P18WBk?si=u-qlO2V7WuhC4Nni), [Johri](https://www.primevideo.com/detail/0OQFYQTU55S6GBNLPLTFHRSC8V?ref_=atv_dp_share_cu_r) | Depicts banking irregularities, financial manipulation, and fraudulent transactions. |
+|| [Guru](https://youtu.be/d8pzg5oPhCw?si=dWC1vWtQHNUcq8V8)[[YT](https://youtu.be/HheWa38QGbM?si=kt0RnV5KRuXzwJUy)] | Explores corporate ambition, business irregularities, financial controversies, and regulatory challenges. |
+||[Scam 2010: The Subrata Roy Saga](https://youtu.be/_akeSPArGFQ?si=-YUiyyDK30dzKT3z)|LLM Scandal, Illustrates fraudulent financial practices and manipulation of investment systems.|
+||Hisaab Barabar|bank quietly skims small micro-amounts from millions of customers account, accumulating a massive illicit fortune under the radar.|
+|| [Kuberaa](https://youtu.be/GiVdj7fCuQs?si=ybtAmy7FgRgItUEv)[[YT](https://youtu.be/y6kLTxZFIEY?si=dujmJyR18B0yNHgy)] | Explores illicit wealth, corruption, exploitation, and the movement of illegal money through shell company. |
+|Cyber Financial Crimes, Phishing & Digital Fraud| [Jamtara – Sabka Number Ayega](https://youtu.be/AS4Z-wXmuP0?si=i8RjGA_7sDxupxm0) | Depicts organized phishing operations, identity deception, and online banking fraud. |
+|Counterfeiting, Forgery & Document Fraud| [Farzi](https://youtu.be/rcQ_xZdzPBc?si=zOcqB47M-N7BmSJn) | Explores counterfeit currency production, distribution, and financial criminal networks. |
+|| [Scam 2003: The Telgi Story](https://youtu.be/DZlQgpKEVJs?si=2duQQgZCafkocoAH)[[YT](https://youtu.be/_x8cUGW8ovU?si=bAsDTNhH7OMTfsFd)] | Based on the large-scale counterfeit stamp paper racket and organized financial fraud. |
+|Corporate Fraud, Tax Evasion & White-Collar Crime| [Bad Boy Billionaires: India](https://youtu.be/aCEOmLPdp-I?si=fHr2iKctXITFrvsw) | Documentary series examining corporate misconduct, financial fraud, and business scandals. |
+|| [Raid](https://youtu.be/3h4thS-Hcrk?si=CfOldh2tc0WJ5ch6), [Special 26](https://youtu.be/MqWAtOvHa4k?si=TxpSrgWDn-rNff9Z) | Depicts income tax investigation, undisclosed wealth, and tax evasion. |
+|Real Estate Fraud & Property Scams| [Khosla Ka Ghosla](https://youtu.be/ig1O2F8fv3M?si=RaLoZTsR6uAoFJT6) | Highlights fraudulent property transactions, land grabbing, and real estate exploitation. |
+|Sports Betting, Match-Fixing & Organized Financial Crime| [Inside Edge](https://youtu.be/T1y3aIfZXJ8?si=VqO3yIw1yruQR8FB) | Explores illegal betting, match-fixing, corruption, and financial interests in professional cricket. |
+|Education Scams & Institutional Corruption| [Shiksha Mandal](https://youtu.be/5VtPTV7T8gA?si=btIR9Yfb3QuMDldR) | Depicts education scams, examination fraud, admission rackets, and institutional corruption. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Suggested Forensic Audit Internship Report Topics
 > SFIO's work revolves around financial irregularities, shell companies, audit manipulation, and forensic evidence. 
 - Option 1: `A Case Study on Shell Companies and Money Laundering`
@@ -97,4 +180,16 @@
 |Forensic Accounting & Investigation Standards|[YouTube](https://youtu.be/bL2aV1v4py8?si=QJzhqXWjSRTY4a0B)|
 |Step by Step Procedure for Forensic Audit|[Blog](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)|
 |Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits),[YouTube](https://youtube.com/playlist?list=PLtYj6GJqFuO3FxqLy2hRU2_aGCfFL-u4B&si=QYNPBv3X-b_E4KN3)|
+
+## SFIO Corporate Fraud Reported Cases in India
+|S.No.|Case Studies Analysis|References|
+|---|---|---|
+|01|Satyam Computer Services Ltd|[ppt](https://www.scribd.com/presentation/323842845/Satyam-Fraud-Case-Study)|
+|02|SFIO v/s Rahul Modi||
+|03|SFIO v/s Nittin Johari|
+|04|Union of India v/s Deloitte Haskins & Sells LLP||
+|05|Barium Chemicals Ltd v/s Company Law Board||
+|06|Rohtas Industries Ltd v/s S.D. Agarwal||
+|07|SFIO v/s Aditya Tripathi||
+|08|Nirav Modi|[ppt](https://www.scribd.com/document/414970965/Pnb-Scam-Ppt)|
 
