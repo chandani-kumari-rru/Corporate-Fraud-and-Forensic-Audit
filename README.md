@@ -174,7 +174,6 @@ Fraud happens by employee
 |---|---|
 |Fraud Triangle: Art of Forensic Accounting & Investigation|[YouTube](https://youtu.be/jW5m2mxy-q0?si=elt9CFhUUZU69Kza)|
 |Forensic Accounting & Investigation Standards|[YouTube](https://youtu.be/bL2aV1v4py8?si=QJzhqXWjSRTY4a0B)|
-|Step by Step Procedure for Forensic Audit|[Blog](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)|
 |Different Case Analysis|[Blog](https://www.lawgratis.com/blog-detail/sfio-investigation-and-forensic-audits),[YouTube](https://youtube.com/playlist?list=PLtYj6GJqFuO3FxqLy2hRU2_aGCfFL-u4B&si=QYNPBv3X-b_E4KN3)|
 
 ## [Procedure to Handle Corporate Fraud](https://www.sansalegal.com/post/how-to-conduct-a-forensic-audit-in-corporate-fraud-cases-under-indian-law)
@@ -231,14 +230,6 @@ Executive Summary: A concise overview of the engagement, key findings, and concl
   - `Police and Economic Offences Wing`: For filing criminal complaints, the company may approach the police or the Economic Offences Wing. Offences are now registered under the Bharatiya Nyaya Sanhita, 2023 (BNS), which replaced the Indian Penal Code, and investigated under the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), which replaced the Code of Criminal Procedure. Both statutes have been in force since July 1, 2024.
   - `SEBI`: For listed companies, fraud involving manipulation of financial statements or market manipulation may also trigger obligations under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. Timely disclosure to stock exchanges and cooperation with SEBI investigations are mandatory.
   - `Registrar of Companies`: The RoC can conduct enquiries into the affairs of any company and report findings to the Central Government. Where a forensic audit reveals fraud, the company or its auditors may be obligated to report to the RoC under the statutory reporting framework.
-
-
-
-
-
-
-
-
 
 
 ## SFIO Case Progress
