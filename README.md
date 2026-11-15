@@ -84,6 +84,8 @@ Fraud happens by employee
 
 
 ### Corporate Fraud Cases in India
+> Rakesh Jhunjhunwala is a Indian trader & also a successfull investor.
+
 |S.No.|Fraud|Scam-Budget|Charges|References| 
 |---|---|---|---|---| 
 |01|Harshad Mehta 1992|5,000 crore|uses loopholes in the banking system to siphon off 1000 crore in public funds, signle handedly fueling an unprecedented bull run in BSE before the entire system collapsed.|Scam 1992, Big Bull, Dalal Street|
@@ -102,6 +104,7 @@ Fraud happens by employee
 |14|DHFL 2019| 34,000 crore||||
 |15|Videocon 2019|4000 crore||||
 |16|ABG Shipyard 2022|22842 crore||||
+
 
 ### Corporate Fraud Cases in USA
 |S.No.|Case Studies Analysis|Budget Amount|Charges|References|
