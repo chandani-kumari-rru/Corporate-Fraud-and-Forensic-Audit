@@ -23,7 +23,7 @@ Option Preference
 - CASE 1: if u opt one group for 1st Attempt, then u spent 1 year for COMPLETE both groups.
 - CASE 2: if u opt both group for 1st Attempt then u grab 2 benefits i.e
   - saving next 6 Month
-  - u meets a option to `Marks Set-Off`
+  - u meets a option to, `Marks Set-Off`
     - Marks Set-Off means if u down in Group 1(like 49%) then Group 2(like 51%) automatically lifted up & vice-versa
 
 
