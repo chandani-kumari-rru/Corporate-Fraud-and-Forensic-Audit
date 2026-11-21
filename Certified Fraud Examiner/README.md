@@ -12,10 +12,10 @@ CFE Certification - Eligibility Requirement
 - `ACFE Membership` + `Bachelor's Degree` + `2 Year Work Experience`
 
 Q) Since, i m a PG passout Student but not have any work experience then am i eligible for CFE Certification or not
-Ans: No, bez for certification needs 50-Points, u have only 45 Points (40 for Bsc + 5 for Msc)
+- Ans: No, bez for certification needs 50-Points, u have only 45 Points (40 for Bsc + 5 for Msc)
 
 Q) Since, i m a Phd passout Student but not have any work experience then am i eligible for CFE Certification or not
-Ans: No, bez u completed 50-Points (i.e bsc - 40points, phd - 10 points) by Academic, Work Experience is Mandatory
+- Ans: No, bez u completed 50-Points (i.e bsc - 40points, phd - 10 points) by Academic, Work Experience is Mandatory
 
 CFE Old v/s New 
 ---------------
