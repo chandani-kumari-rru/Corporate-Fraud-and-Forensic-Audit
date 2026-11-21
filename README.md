@@ -8,15 +8,9 @@
 
 ## [Eligibility of CA Exam](https://youtu.be/ZCMHKn0x2sc?si=6qFEv6Vi_N-Me96Z&t=425)
 - in ca, here 2 Exams
-    1) CA Prelims - 8 Paper (800 Marks)
-    2) CA Final   - 6 Paper (600 Marks)
-       |Paper|Duration|Time|
-       |---|---|---|
-       |1 to 5|3hrs|2-5PM|
-       |6|4rhs|2-6PM|
-
-       Note: ICAI conducts only one paper per day, spread over roughly 2 weeks.
-- `CA Prelims` having total 8 subject, Devided in 2 Group
+    1) CA Foundation - 8 Paper (800 Marks)
+    3) CA Final   - 6 Paper (600 Marks)
+- `CA Foundation` having total 8 subject, Devided in 2 Group
   - Group 1 : 4-Subject
   - Group 2 : 4-Subject
 
